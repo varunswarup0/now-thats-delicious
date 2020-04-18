@@ -91,12 +91,12 @@ Now That's Delicious is released under the under terms of the [MIT License](LICE
 <br/>
 <div>
 <!-- <p align="center"> -->
-    <img width="30%" src="https://github.com/varunswarup0/now-thats-delicious/blob/master/phone.png" alt="Now That's Delicious Slideshow">
+    <img width="25%" src="https://github.com/varunswarup0/now-thats-delicious/blob/master/phone.png" alt="Now That's Delicious Slideshow">
 <!-- </p> -->
 <!-- <br/> -->
 <!-- <br/> -->
 <!-- <p align="center"> -->
-    <img width="70%" src="https://github.com/varunswarup0/now-thats-delicious/blob/master/laptop.png" alt="Now That's Delicious Slideshow">
+    <img width="65%" src="https://github.com/varunswarup0/now-thats-delicious/blob/master/laptop.png" alt="Now That's Delicious Slideshow">
 <!-- </p> -->
 </div>
 <br/>
