@@ -1,9 +1,5 @@
-The user can search, geolocate(using Google Maps API), review, and find their top favorite restaurants from around the world.
-The application has 3 main models: Users, Stores, and Reviews.
 
-### Thank you <span>@[wesbos](https://github.com/wesbos)</span>, learned a lot from your Learn Node course.
-
-# [Now That's Delicious](https://now-thatsdelicious.herokuapp.com/)😋
+# [Now That's Delicious](https://now-thatsdelicious.herokuapp.com/)
 
 <br/>
 <p align="center">
@@ -18,10 +14,9 @@ The application has 3 main models: Users, Stores, and Reviews.
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-Now That's Delicious is a highly extensible open-source **Redux-Thunk** application on the [React](https://reactjs.org/) framework. Now That's Delicious is developed to deliver robust **fast and scalable results** while providing an **intuitive and extensible administration toolkit** to manage the full content lifecycle.
+Now That's Delicious is a highly extensible open-source **Full-Stack** application on the **[Node.js](https://nodejs.org/en/docs/)** library. Now That's Delicious is developed to deliver robust **fast and scalable results** while providing an **intuitive and extensible administration interface** to manage the full content lifecycle.
 
-This full stack restaurant application is built using **[Node.js](https://nodejs.org/en/docs/)**, **Express**, **MongoDB**(mlab & MongoDB Compass), **Passport.js** and some more npms.
-It is designed with today's application essentials such as user authentication, database storage, Ajax REST API, file upload and image resizing.
+This  restaurant application is built using  **Express**, **MongoDB**(mlab & MongoDB Compass), **Passport.js** and some more npms. It is designed with today's application essentials such as user authentication, database storage, Ajax REST API, file upload and image resizing.
 
 <br/>
 <p align="center">
@@ -53,7 +48,7 @@ That will populate 16 stores with 3 authors and 41 reviews.
 
 The [Now That's Delicious/package.json](https://github.com/varunswarup0/now-thats-delicious/blob/master/package.json) provides a **pre-configured project JSON template** to quick-start your development. Visit the official [Redux documentation](https://redux.js.org/) to find out how to use the project template for starting your own Now That's Delicious project.
 
-## ❤️ Logins available
+## ☑ Logins available
 
 The logins for the authors are as follows:
 
@@ -63,21 +58,21 @@ The logins for the authors are as follows:
 | Debbie Downer | debbie@example.com     | debbie   |
 | Beau          | beau@example.com       | beau     |
 
+The user can search, geolocate(using Google Maps API), review, and find their top favorite restaurants from around the world.
+The application has 3 main models: Users, Stores, and Reviews.
+
 ## 📫 Have a question? Want to chat? Ran into a problem?
 
 Need some help? Want to chat with the other learners? The Slack Chat that accompanies this course is where you should be asking questions — this repo is meant as a place to grab the starter files and isn't a support channel.
 
 ## 🤝 Found a bug? Missing a specific feature?
 
-If you found a different / better way to solve problems in the application, great! These files are meant to be as close to 1:1 as they are shown in the videos so I generally won't accept any pull requests for changing how the application functions.
+If you found a different / better way to solve problems in the application, great! These files are meant to be as close to 1:1 as they are shown in the videos so I generally won't accept any pull requests for changing how the application functions. Glaring errors, clarifications and files that aren't shown in the videos are totally fair game for pull requests and are appreciated.
 
-Glaring errors, clarifications and files that aren't shown in the videos are totally fair game for pull requests and are appreciated.
-
-Enjoy!
 
 ## ✅ Requirements
 
-Now That's Delicious requires a **Node version higher or equal to v12.16.1.0** and is compatible with every **npm version starting from 6.14.4**.
+Now That's Delicious requires a **NODE version higher or equal to v12.16.1.0** and is compatible with every **npm version starting from 6.14.4**.
 
 ## 📘License
 
@@ -101,20 +96,4 @@ Now That's Delicious is released under the under terms of the [MIT License](LICE
 </p>
 <br/>
 
-## Status: Completed ☑
 
-## Logins available
-
-The logins for the authors are as follows:
-
-| Name          | Email (login)      | Password |
-| ------------- | ------------------ | -------- |
-| Wes Bos       | wes@example.com    | wes      |
-| Debbie Downer | debbie@example.com | debbie   |
-| Beau          | beau@example.com   | beau     |
-
-## Sample Data
-
-```
-
-```
