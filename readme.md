@@ -57,7 +57,7 @@ The logins for the authors are as follows:
 
 | Name          | Email (login)          | Password |
 | ------------- | ---------------------- | -------- |
-| Varun Swaruo  | varunswarup0@gmail.com | varun    |
+| Varun Swarup  | varunswarup0@gmail.com | varun    |
 | Debbie Downer | debbie@example.com     | debbie   |
 | Beau          | beau@example.com       | beau     |
 
