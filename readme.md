@@ -1,10 +1,6 @@
 The user can search, geolocate(using Google Maps API), review, and find their top favorite restaurants from around the world.
 The application has 3 main models: Users, Stores, and Reviews.
 
-## Check out the application:
-
-https://now-thatsdelicious.herokuapp.com/
-
 ### Thank you <span>@[wesbos](https://github.com/wesbos)</span>, learned a lot from your Learn Node course.
 
 # [Now That's Delicious](https://now-thatsdelicious.herokuapp.com/)😋
@@ -29,7 +25,7 @@ It is designed with today's application essentials such as user authentication, 
 
 <br/>
 <p align="center">
-    <img width="80%" src="https://github.com/varunswarup0/now-thats-delicious/blob/master/laptopPreview.gif" alt="Now That's Delicious Slideshow">
+    <img width="20%" src="https://github.com/varunswarup0/now-thats-delicious/blob/master/phonePreview2.gif" alt="Now That's Delicious Slideshow">
 </p>
 <br/>
 <br/>
@@ -65,19 +61,6 @@ The logins for the authors are as follows:
 | Varun Swaruo  | varunswarup0@gmail.com | varun    |
 | Debbie Downer | debbie@example.com     | debbie   |
 | Beau          | beau@example.com       | beau     |
-
-=======
-
-If you want to **start a new Now That's Delicious project**, you might be interested in the [tweet-stream/blob](https://github.com/varunswarup0/tweet-stream/blob/master/package.json) template repository.
-
-## 🚀 Installation and Documentation
-
-The [Now That's Delicious/package.json](https://github.com/varunswarup0/now-thats-delicious/blob/master/package.json) provides a **pre-configured project JSON template** to quick-start your development. Visit the official [Redux documentation](https://redux.js.org/) to find out how to use the project template for starting your own Now That's Delicious project.
-
-## ❤️ Community and Contributions
-
-Now That's Delicious aims to be a **community-driven open source project**. I am committed to a fully transparent development process and **highly appreciate any contributions**. Whether you are helping me fixing bugs, proposing new feature, improving my documentation or spreading the word - **i would love to have you as part of the Now That's Delicious community**.
-
 
 ## 📫 Have a question? Want to chat? Ran into a problem?
 
@@ -118,7 +101,6 @@ Now That's Delicious is released under the under terms of the [MIT License](LICE
 
 ## Status: Completed ☑
 
-
 ## Logins available
 
 The logins for the authors are as follows:
@@ -131,5 +113,6 @@ The logins for the authors are as follows:
 
 ## Sample Data
 
+```
 
 ```
