@@ -1,9 +1,3 @@
-## Now That's Delicious
-
-This full stack restaurant application is built using Node.js, Express, MongoDB(mlab & MongoDB Compass), Passport.js and some more npms.
-It is designed with today's application essentials such as user authentication, database storage, Ajax REST API, file upload and image resizing.
-<br>
-<br>
 The user can search, geolocate(using Google Maps API), review, and find their top favorite restaurants from around the world.
 The application has 3 main models: Users, Stores, and Reviews.
 
@@ -13,7 +7,7 @@ https://now-thatsdelicious.herokuapp.com/
 
 ### Thank you <span>@[wesbos](https://github.com/wesbos)</span>, learned a lot from your Learn Node course.
 
-# [Now That's Delicious](https://now-thatsdelicious.herokuapp.com/)
+# [Now That's Delicious](https://now-thatsdelicious.herokuapp.com/)😋
 
 <br/>
 <p align="center">
@@ -28,41 +22,53 @@ https://now-thatsdelicious.herokuapp.com/
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-tStream is a highly extensible open-source **Redux-Thunk** application on the [React](https://reactjs.org/) framework. tStream is developed to deliver robust **fast and scalable results** while providing an **intuitive and extensible administration toolkit** to manage the full content lifecycle.
+Now That's Delicious is a highly extensible open-source **Redux-Thunk** application on the [React](https://reactjs.org/) framework. Now That's Delicious is developed to deliver robust **fast and scalable results** while providing an **intuitive and extensible administration toolkit** to manage the full content lifecycle.
+
+This full stack restaurant application is built using **[Node.js](https://nodejs.org/en/docs/)**, **Express**, **MongoDB**(mlab & MongoDB Compass), **Passport.js** and some more npms.
+It is designed with today's application essentials such as user authentication, database storage, Ajax REST API, file upload and image resizing.
 
 <br/>
 <p align="center">
-    <img width="80%" src="https://github.com/varunswarup0/tweet-stream/blob/master/fetchTweets.gif" alt="tStream Slideshow">
+    <img width="80%" src="https://github.com/varunswarup0/now-thats-delicious/blob/master/laptopPreview.gif" alt="Now That's Delicious Slideshow">
+</p>
+<br/>
+<br/>
+<p align="center">
+    <img width="80%" src="https://github.com/varunswarup0/now-thats-delicious/blob/master/laptopPreview2.gif" alt="Now That's Delicious Slideshow">
 </p>
 <br/>
 
-This repository contains the **core framework of the tStream content management system**. The Redux library implements the functionality that is built into the tStream content management system and therefore is a dependency of all tSream projects.
+This repository contains the **core framework of the Now That's Delicious content management system**. The Redux library implements the functionality that is built into the Now That's Delicious content management system and therefore is a dependency of all Now That's Delicious projects.
 
-If you want to **start a new tStream project**, you might be interested in the [tweet-stream/blob](https://github.com/varunswarup0/tweet-stream/blob/master/package.json) template repository.
+If you want to **start a new Now That's Delicious project**, you might be interested in the [tweet-stream/blob](https://github.com/varunswarup0/tweet-stream/blob/master/package.json) template repository.
 
-## 🚀&nbsp; Installation and Documentation
+## 🚀 Installation and Documentation
 
-The [tStream/package.json](https://github.com/varunswarup0/tweet-stream/blob/master/package.json) provides a **pre-configured project JSON template** to quick-start your development. Visit the official [Redux documentation](https://redux.js.org/) to find out how to use the project template for starting your own tSream project.
+The [Now That's Delicious/package.json](https://github.com/varunswarup0/now-thats-delicious/blob/master/package.json) provides a **pre-configured project JSON template** to quick-start your development. Visit the official [Redux documentation](https://redux.js.org/) to find out how to use the project template for starting your own Now That's Delicious project.
 
-## ❤️&nbsp; Community and Contributions
+## ❤️ Community and Contributions
 
-tStream aims to be a **community-driven open source project**. I am committed to a fully transparent development process and **highly appreciate any contributions**. Whether you are helping me fixing bugs, proposing new feature, improving my documentation or spreading the word - **i would love to have you as part of the tStream community**.
+Now That's Delicious aims to be a **community-driven open source project**. I am committed to a fully transparent development process and **highly appreciate any contributions**. Whether you are helping me fixing bugs, proposing new feature, improving my documentation or spreading the word - **i would love to have you as part of the Now That's Delicious community**.
 
-## 📫&nbsp; Have a question? Want to chat? Ran into a problem?
+## 📫 Have a question? Want to chat? Ran into a problem?
 
-You can always **reach out to me directly** via the [my twitter account](https://twitter.com/SwarupVs) or post your question on [StackOverflow](https://stackoverflow.com/questions/tagged/tStream) with the `tStream` tag.
+Need some help? Want to chat with the other learners? The Slack Chat that accompanies this course is where you should be asking questions — this repo is meant as a place to grab the starter files and isn't a support channel.
 
-## 🤝&nbsp; Found a bug? Missing a specific feature?
+## 🤝 Found a bug? Missing a specific feature?
 
-Feel free to **file a new issue** with a respective title and description on the the [tSream](https://github.com/varunswarup0/tweet-stream/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
+If you found a different / better way to solve problems in the application, great! These files are meant to be as close to 1:1 as they are shown in the videos so I generally won't accept any pull requests for changing how the application functions.
 
-## ✅&nbsp; Requirements
+Glaring errors, clarifications and files that aren't shown in the videos are totally fair game for pull requests and are appreciated.
 
-tSream requires a **Node version higher or equal to v13.9.0** and is compatible with every **Redux version starting from 4.0.5**. I request you to be up-to-date with core framework of tStream content management system.
+Enjoy!
 
-## 📘&nbsp; License
+## ✅ Requirements
 
-The tSream content management system is released under the under terms of the [MIT License](LICENSE).
+Now That's Delicious requires a **Node version higher or equal to v12.16.1.0** and is compatible with every **npm version starting from 6.14.4**.
+
+## 📘License
+
+Now That's Delicious is released under the under terms of the [MIT License](LICENSE).
 
 [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
@@ -72,6 +78,6 @@ The tSream content management system is released under the under terms of the [M
 
 <br/>
 <p align="center">
-    <img width="80%" src="https://github.com/varunswarup0/tweet-stream/blob/master/tStream%20Interface.png" alt="tStream Slideshow">
+    <img width="80%" src="https://github.com/varunswarup0/tweet-stream/blob/master/Now That's Delicious%20Interface.png" alt="Now That's Delicious Slideshow">
 </p>
 <br/>
