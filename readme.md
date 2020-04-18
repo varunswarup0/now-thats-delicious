@@ -5,12 +5,6 @@ The application has 3 main models: Users, Stores, and Reviews.
 
 # [Now That's Delicious](https://now-thatsdelicious.herokuapp.com/)😋
 
-<style>
-img  {
-  text-align="center"
-}
-</style>
-
 <br/>
 <p align="center">
     <!-- <a href="" target="_blank"> -->
@@ -31,7 +25,8 @@ It is designed with today's application essentials such as user authentication, 
 
 <br/>
 <p align="center">
-    <img width="20%" src="https://github.com/varunswarup0/now-thats-delicious/blob/master/phonePreview2.gif" alt="Now That's Delicious Slideshow">
+<img align="center" width="70%" src="https://github.com/varunswarup0/now-thats-delicious/blob/master/laptop.png" alt="Now That's Delicious Slideshow">
+
 </p>
 <br/>
 <br/>
@@ -97,11 +92,12 @@ Now That's Delicious is released under the under terms of the [MIT License](LICE
 <br/>
 <p align="center" >
     <img align="center" width="25%" src="https://github.com/varunswarup0/now-thats-delicious/blob/master/phone.png" alt="Now That's Delicious Slideshow">
+    <img width="20%" src="https://github.com/varunswarup0/now-thats-delicious/blob/master/phonePreview2.gif" alt="Now That's Delicious Slideshow">
 <!-- </p> -->
 <!-- <br/> -->
 <!-- <br/> -->
 <!-- <p align="center"> -->
-    <img align="center" width="65%" src="https://github.com/varunswarup0/now-thats-delicious/blob/master/laptop.png" alt="Now That's Delicious Slideshow">
+
 </p>
 <br/>
 
