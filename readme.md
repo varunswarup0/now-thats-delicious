@@ -90,7 +90,7 @@ Now That's Delicious is released under the under terms of the [MIT License](LICE
 
 <br/>
 <p align="center">
-    <img width="80%" src="https://github.com/varunswarup0/now-thats-delicious/blob/master/phone.png" alt="Now That's Delicious Slideshow">
+    <img width="10%" src="https://github.com/varunswarup0/now-thats-delicious/blob/master/phone.png" alt="Now That's Delicious Slideshow">
 </p>
 <br/>
 <br/>
