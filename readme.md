@@ -38,10 +38,18 @@ It is designed with today's application essentials such as user authentication, 
 </p>
 <br/>
 
-This repository contains the **core framework of the Now That's Delicious content management system**. The Redux library implements the functionality that is built into the Now That's Delicious content management system and therefore is a dependency of all Now That's Delicious projects.
-<<<<<<< HEAD
+To load sample data, run the following command in your terminal:
 
-If you want to **start a new Now That's Delicious project**, you might be interested in the [tweet-stream/blob](https://github.com/varunswarup0/tweet-stream/blob/master/package.json) template repository.
+```bash
+npm run sample
+```
+
+If you have previously loaded in this data, you can wipe your database 100% clean with:
+
+```bash
+npm run blowitallaway
+
+That will populate 16 stores with 3 authors and 41 reviews.
 
 ## 🚀 Installation and Documentation
 
@@ -56,6 +64,7 @@ The logins for the authors are as follows:
 | Varun Swaruo  | varunswarup0@gmail.com | varun    |
 | Debbie Downer | debbie@example.com     | debbie   |
 | Beau          | beau@example.com       | beau     |
+
 =======
 
 If you want to **start a new Now That's Delicious project**, you might be interested in the [tweet-stream/blob](https://github.com/varunswarup0/tweet-stream/blob/master/package.json) template repository.
@@ -67,7 +76,8 @@ The [Now That's Delicious/package.json](https://github.com/varunswarup0/now-that
 ## ❤️ Community and Contributions
 
 Now That's Delicious aims to be a **community-driven open source project**. I am committed to a fully transparent development process and **highly appreciate any contributions**. Whether you are helping me fixing bugs, proposing new feature, improving my documentation or spreading the word - **i would love to have you as part of the Now That's Delicious community**.
->>>>>>> e3c2aa0264de745fc5eedce8d0580c28ce265543
+
+> > > > > > > e3c2aa0264de745fc5eedce8d0580c28ce265543
 
 ## 📫 Have a question? Want to chat? Ran into a problem?
 
@@ -97,20 +107,17 @@ Now That's Delicious is released under the under terms of the [MIT License](LICE
 
 <br/>
 <p align="center">
-    <img width="80%" src="https://github.com/varunswarup0/tweet-stream/blob/master/Now That's Delicious%20Interface.png" alt="Now That's Delicious Slideshow">
+    <img width="80%" src="https://github.com/varunswarup0/now-thats-delicious/blob/master/phone.png" alt="Now That's Delicious Slideshow">
 </p>
 <br/>
-<<<<<<< HEAD
+<br/>
+<p align="center">
+    <img width="80%" src="https://github.com/varunswarup0/now-thats-delicious/blob/master/laptop.png" alt="Now That's Delicious Slideshow">
+</p>
+<br/>
 
-## Status
+## Status: Completed ☑
 
-Completed ☑
-
-## FINISHED DEPLOYMENTS
-
-[Heroku deployment](https://learn-node-functional-stoic.herokuapp.com/)
-
-[Now.sh deployment](https://now-thats-delicious-xucejerhkl.now.sh/)
 
 ## Logins available
 
@@ -124,18 +131,5 @@ The logins for the authors are as follows:
 
 ## Sample Data
 
-To load sample data, run the following command in your terminal:
 
-```bash
-npm run sample
 ```
-
-If you have previously loaded in this data, you can wipe your database 100% clean with:
-
-```bash
-npm run blowitallaway
-```
-
-That will populate 16 stores with 3 authors and 41 reviews.
-=======
->>>>>>> e3c2aa0264de745fc5eedce8d0580c28ce265543
