@@ -89,16 +89,16 @@ Now That's Delicious is released under the under terms of the [MIT License](LICE
 <img src="https://img.shields.io/badge/Support-Recommed%2FEndorse%20me%20on%20Linkedin-yellow?style=for-the-badge&logo=linkedin" alt="Recommend me on LinkedIn" /></a>
 
 <br/>
-<div>
-<p align="center">
+<div align="center">
+<!-- <p align="center"> -->
     <img width="15%" src="https://github.com/varunswarup0/now-thats-delicious/blob/master/phone.png" alt="Now That's Delicious Slideshow">
-</p>
+<!-- </p> -->
 <!-- <br/> -->
 <!-- <br/> -->
 <p align="center">
     <img width="70%" src="https://github.com/varunswarup0/now-thats-delicious/blob/master/laptop.png" alt="Now That's Delicious Slideshow">
-</p>
-<div>
+<!-- </p> -->
+</div>
 <br/>
 
 ## Status: Completed ☑
