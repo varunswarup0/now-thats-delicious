@@ -39,6 +39,7 @@ It is designed with today's application essentials such as user authentication, 
 <br/>
 
 This repository contains the **core framework of the Now That's Delicious content management system**. The Redux library implements the functionality that is built into the Now That's Delicious content management system and therefore is a dependency of all Now That's Delicious projects.
+<<<<<<< HEAD
 
 If you want to **start a new Now That's Delicious project**, you might be interested in the [tweet-stream/blob](https://github.com/varunswarup0/tweet-stream/blob/master/package.json) template repository.
 
@@ -55,6 +56,18 @@ The logins for the authors are as follows:
 | Varun Swaruo  | varunswarup0@gmail.com | varun    |
 | Debbie Downer | debbie@example.com     | debbie   |
 | Beau          | beau@example.com       | beau     |
+=======
+
+If you want to **start a new Now That's Delicious project**, you might be interested in the [tweet-stream/blob](https://github.com/varunswarup0/tweet-stream/blob/master/package.json) template repository.
+
+## 🚀 Installation and Documentation
+
+The [Now That's Delicious/package.json](https://github.com/varunswarup0/now-thats-delicious/blob/master/package.json) provides a **pre-configured project JSON template** to quick-start your development. Visit the official [Redux documentation](https://redux.js.org/) to find out how to use the project template for starting your own Now That's Delicious project.
+
+## ❤️ Community and Contributions
+
+Now That's Delicious aims to be a **community-driven open source project**. I am committed to a fully transparent development process and **highly appreciate any contributions**. Whether you are helping me fixing bugs, proposing new feature, improving my documentation or spreading the word - **i would love to have you as part of the Now That's Delicious community**.
+>>>>>>> e3c2aa0264de745fc5eedce8d0580c28ce265543
 
 ## 📫 Have a question? Want to chat? Ran into a problem?
 
@@ -87,6 +100,7 @@ Now That's Delicious is released under the under terms of the [MIT License](LICE
     <img width="80%" src="https://github.com/varunswarup0/tweet-stream/blob/master/Now That's Delicious%20Interface.png" alt="Now That's Delicious Slideshow">
 </p>
 <br/>
+<<<<<<< HEAD
 
 ## Status
 
@@ -123,3 +137,5 @@ npm run blowitallaway
 ```
 
 That will populate 16 stores with 3 authors and 41 reviews.
+=======
+>>>>>>> e3c2aa0264de745fc5eedce8d0580c28ce265543
