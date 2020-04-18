@@ -1,5 +1,7 @@
 
 # [Now That's Delicious](https://now-thatsdelicious.herokuapp.com/)
+<a href="https://www.linkedin.com/in/varun-swarup/">
+<img src="https://img.shields.io/badge/Support-Recommed%2FEndorse%20me%20on%20Linkedin-yellow?style=for-the-badge&logo=linkedin" alt="Recommend me on LinkedIn" /></a>
 
 <br/>
 <p align="center">
@@ -81,8 +83,6 @@ Now That's Delicious is released under the under terms of the [MIT License](LICE
 [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
 [![forthebadge cc-by-nd](http://ForTheBadge.com/images/badges/cc-by-nd.svg)](https://creativecommons.org/licenses/by-nd/4.0)
-<a href="https://www.linkedin.com/in/lamsanskar/">
-<img src="https://img.shields.io/badge/Support-Recommed%2FEndorse%20me%20on%20Linkedin-yellow?style=for-the-badge&logo=linkedin" alt="Recommend me on LinkedIn" /></a>
 
 <br/>
 <p align="center" >
