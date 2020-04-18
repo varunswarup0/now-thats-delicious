@@ -1,8 +1,8 @@
-<a href="https://www.linkedin.com/in/varun-swarup/">
-<img src="https://img.shields.io/badge/Support-Recommed%2FEndorse%20me%20on%20Linkedin-yellow?style=for-the-badge&logo=linkedin" alt="Recommend me on LinkedIn" /></a>
+
 
 # [Now That's Delicious](https://now-thatsdelicious.herokuapp.com/)
-
+<a href="https://www.linkedin.com/in/varun-swarup/">
+<img src="https://img.shields.io/badge/Support-Recommed%2FEndorse%20me%20on%20Linkedin-yellow?style=for-the-badge&logo=linkedin" alt="Recommend me on LinkedIn" /></a>
 
 <br/>
 <p align="center">
