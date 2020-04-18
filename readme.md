@@ -5,6 +5,12 @@ The application has 3 main models: Users, Stores, and Reviews.
 
 # [Now That's Delicious](https://now-thatsdelicious.herokuapp.com/)😋
 
+<style>
+img  {
+  text-align="center"
+}
+</style>
+
 <br/>
 <p align="center">
     <!-- <a href="" target="_blank"> -->
@@ -89,7 +95,7 @@ Now That's Delicious is released under the under terms of the [MIT License](LICE
 <img src="https://img.shields.io/badge/Support-Recommed%2FEndorse%20me%20on%20Linkedin-yellow?style=for-the-badge&logo=linkedin" alt="Recommend me on LinkedIn" /></a>
 
 <br/>
-<p align="center" text-align="center">
+<p align="center" >
     <img align="center" width="25%" src="https://github.com/varunswarup0/now-thats-delicious/blob/master/phone.png" alt="Now That's Delicious Slideshow">
 <!-- </p> -->
 <!-- <br/> -->
