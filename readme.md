@@ -1,23 +1,24 @@
 ## Now That's Delicious
 
-This full stack restaurant application is built using Node.js, Express, MongoDB(mlab & MongoDB Compass), Passport.js and some more npms. 
+This full stack restaurant application is built using Node.js, Express, MongoDB(mlab & MongoDB Compass), Passport.js and some more npms.
 It is designed with today's application essentials such as user authentication, database storage, Ajax REST API, file upload and image resizing.
 <br>
 <br>
-The user can search, geolocate(using Google Maps API), review, and find their top favorite restaurants from around the world. 
-The application has 3 main models: Users, Stores, and Reviews. 
+The user can search, geolocate(using Google Maps API), review, and find their top favorite restaurants from around the world.
+The application has 3 main models: Users, Stores, and Reviews.
 
 ## Check out the application:
+
 https://now-thatsdelicious.herokuapp.com/
 
 ### Thank you <span>@[wesbos](https://github.com/wesbos)</span>, learned a lot from your Learn Node course.
 
-# tSTREAM
+# [Now That's Delicious](https://now-thatsdelicious.herokuapp.com/)
 
 <br/>
 <p align="center">
     <!-- <a href="" target="_blank"> -->
-        <img width="50%" src="https://github.com/varunswarup0/tweet-stream/blob/master/tStream%20Logo.jpg" alt="tStream logo">
+        <img width="50%" src="https://github.com/varunswarup0/now-thats-delicious/blob/master/logo.gif" alt="logo">
     <!-- </a> -->
 </p>
 
@@ -36,8 +37,6 @@ tStream is a highly extensible open-source **Redux-Thunk** application on the [R
 <br/>
 
 This repository contains the **core framework of the tStream content management system**. The Redux library implements the functionality that is built into the tStream content management system and therefore is a dependency of all tSream projects.
-
-
 
 If you want to **start a new tStream project**, you might be interested in the [tweet-stream/blob](https://github.com/varunswarup0/tweet-stream/blob/master/package.json) template repository.
 
@@ -65,18 +64,14 @@ tSream requires a **Node version higher or equal to v13.9.0** and is compatible 
 
 The tSream content management system is released under the under terms of the [MIT License](LICENSE).
 
-
 [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
 [![forthebadge cc-by-nd](http://ForTheBadge.com/images/badges/cc-by-nd.svg)](https://creativecommons.org/licenses/by-nd/4.0)
 <a href="https://www.linkedin.com/in/lamsanskar/">
-    <img src="https://img.shields.io/badge/Support-Recommed%2FEndorse%20me%20on%20Linkedin-yellow?style=for-the-badge&logo=linkedin" alt="Recommend me on LinkedIn" /></a>
+<img src="https://img.shields.io/badge/Support-Recommed%2FEndorse%20me%20on%20Linkedin-yellow?style=for-the-badge&logo=linkedin" alt="Recommend me on LinkedIn" /></a>
 
 <br/>
 <p align="center">
     <img width="80%" src="https://github.com/varunswarup0/tweet-stream/blob/master/tStream%20Interface.png" alt="tStream Slideshow">
 </p>
 <br/>
-
-
-
