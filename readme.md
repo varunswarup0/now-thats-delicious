@@ -48,7 +48,7 @@ That will populate 16 stores with 3 authors and 41 reviews.
 
 The [Now That's Delicious/package.json](https://github.com/varunswarup0/now-thats-delicious/blob/master/package.json) provides a **pre-configured project JSON template** to quick-start your development. Visit the official [Redux documentation](https://redux.js.org/) to find out how to use the project template for starting your own Now That's Delicious project.
 
-## ☑ Logins available
+## 👩‍👩‍👦‍👦‍👦‍👦‍👦‍ Logins available
 
 The logins for the authors are as follows:
 
