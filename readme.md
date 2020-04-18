@@ -48,6 +48,7 @@ If you have previously loaded in this data, you can wipe your database 100% clea
 
 ```bash
 npm run blowitallaway
+```
 
 That will populate 16 stores with 3 authors and 41 reviews.
 
@@ -77,7 +78,6 @@ The [Now That's Delicious/package.json](https://github.com/varunswarup0/now-that
 
 Now That's Delicious aims to be a **community-driven open source project**. I am committed to a fully transparent development process and **highly appreciate any contributions**. Whether you are helping me fixing bugs, proposing new feature, improving my documentation or spreading the word - **i would love to have you as part of the Now That's Delicious community**.
 
-> > > > > > > e3c2aa0264de745fc5eedce8d0580c28ce265543
 
 ## 📫 Have a question? Want to chat? Ran into a problem?
 
